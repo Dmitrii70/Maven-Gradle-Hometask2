@@ -1,5 +1,0 @@
-rootProject.name = 'Hometask2'
-include 'db'
-include 'api'
-include 'service'
-
